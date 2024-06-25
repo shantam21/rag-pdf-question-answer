@@ -16,7 +16,7 @@ This repository contains a Dockerized environment for running a Python script. T
 Clone this repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/shantam94/Quantiphi-Assignment.git
+git clone https://github.com/shantam21/rag-pdf-question-answer.git
 cd your-repository
 
 Please paste the pdf file from https://openstax.org/details/books/concepts-biology and place it in the "data" folder
