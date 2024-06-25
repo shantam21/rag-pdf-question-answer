@@ -1,0 +1,12 @@
+langchain
+torch
+transformers
+sentence-transformers
+datasets
+faiss-cpu
+langchain-community
+pypdf
+PyPDF2
+langchain_huggingface
+chromadb
+streamlit
